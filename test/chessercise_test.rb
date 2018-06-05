@@ -17,4 +17,7 @@ class ChessTest < Minitest::Test
     assert_equal "Knight", @chess.piece
   end
 
+  def test_it_returns_position
+    assert_equal "d2", @chess.position
+  end
 end
