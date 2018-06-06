@@ -4,4 +4,7 @@ class Chess
     @piece = piece
     @position = position
   end
+
 end
+
+Chess.new(ARGV[0], ARGV[1])
