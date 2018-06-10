@@ -6,7 +6,7 @@ ruby 2.4.1
 ```
 
 ### Setup
-Clone this repo to your local machine using git@github.com:lukyans/chess.git
+Clone this repo to your local machine using https://github.com/lukyans/chess.git
 
 ### How to pass values on the command line
 ```
