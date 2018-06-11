@@ -15,4 +15,9 @@ ruby lib/chess.rb Knight d2
 ### How to run the test suite
 ```
 ruby test/board_test.rb
+ruby test/chess_test.rb
+ruby test/knight_test.rb
+ruby test/queen_test.rb
+ruby test/rook_test.rb
+
 ```
