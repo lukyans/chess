@@ -10,7 +10,7 @@ Clone this repo to your local machine using https://github.com/lukyans/chess.git
 
 ### How to pass values on the command line
 ```
-ruby lib/chessercise.rb Knight d2
+ruby lib/chess.rb Knight d2
 ```
 ### How to run the test suite
 ```
